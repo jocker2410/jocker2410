@@ -19,10 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jocker2410&theme=tokyonight" alt="jocker2410" /></p>
 
 
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <h3 align="left">Technologies:</h3>
