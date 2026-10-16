@@ -1,7 +1,5 @@
 <h2 align="center">🔥 Coding for fun 😎</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocker2410&theme=matrix" alt="jocker2410" /></a> </p>
-
 <h3 align="left">Nice to know:</h3>
 <p align="left">
 <a href="https://dev.to/t/python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV.TO Love" height="30" width="40" /></a>
