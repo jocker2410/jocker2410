@@ -46,26 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocker2410&langs_count=5&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocker2410&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=jocker2410&count_private=true&theme=tokyonight&show_icons=true" alt="jocker2410 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jocker2410&theme=tokyonight" alt="jocker2410 streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocker2410&langs_count=5&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-
-<h3 align="center">📅 Contribution History (Pushes & Commits)</h3>
-<p align="center">
-  <!-- Die Farbe 7aa2f7 passt perfekt zum Tokyo Night Theme -->
-  <img src="https://ghchart.rshah.org/7aa2f7/jocker2410" alt="jocker2410's Contribution Graph" />
-</p>
-
 <h3 align="center">📈 Activity Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jocker2410&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
