@@ -1,7 +1,5 @@
 <h2 align="center">🔥 Coding for fun 😎</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jocker2410&label=Profile%20views&color=0e75b6&style=flat" alt="jocker2410" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocker2410&theme=matrix" alt="jocker2410" /></a> </p>
 
 <h3 align="left">Nice to know:</h3>
