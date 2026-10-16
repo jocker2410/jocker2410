@@ -45,8 +45,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocker2410&langs_count=5&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
-
-<h3 align="center">📅 Contribution History (Pushes & Commits)</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/jocker2410" alt="jocker2410's Contribution Graph" />
-</p>
